@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^about  about.php [NC,L]
+RewriteRule ^class  1.class&object.php [NC,L]
