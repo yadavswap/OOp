@@ -1,7 +1,7 @@
 <!-- Access modifierers are three type : public ,protected ,private -->
 <!-- public :- use from anywherere  eg.outside class ,inside class ,derived class also -->
 <!-- protected :- use in class iteself and derived class only -->
-<!-- private :-  only class itself-->
+<!-- private :-  only class itself -->
 
 <?php 
 class cal{
